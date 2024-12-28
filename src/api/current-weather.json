@@ -1,0 +1,24 @@
+{
+  "lat": "51.50853N",
+  "lon": "0.12574W",
+  "elevation": 25,
+  "timezone": "Europe/London",
+  "units": "uk",
+  "current": {
+    "icon": "fog",
+    "icon_num": 9,
+    "summary": "Fog",
+    "temperature": 3.5,
+    "feels_like": 2.5,
+    "wind_chill": 3.5,
+    "dew_point": 3.5,
+    "wind": { "speed": 2.9, "gusts": 2.8, "angle": 237, "dir": "WSW" },
+    "precipitation": { "total": 0.0, "type": "none" },
+    "cloud_cover": 99,
+    "ozone": 286.47,
+    "pressure": 1030,
+    "uv_index": 0.0,
+    "humidity": 99,
+    "visibility": 2.26
+  }
+}
