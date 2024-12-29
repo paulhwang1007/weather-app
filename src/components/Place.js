@@ -5,7 +5,7 @@ function Place() {
   const { place } = useContext(WeatherContext);
   return (
     <div className="Place">
-      <i class="bi bi-geo-alt-fill"></i> <strong>{place.name}</strong>,{" "}
+      <i className="bi bi-geo-alt-fill"></i> <strong>{place.name}</strong>,{" "}
       {place.country}
     </div>
   );
